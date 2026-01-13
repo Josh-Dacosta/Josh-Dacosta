@@ -1,16 +1,22 @@
-## Hi there 👋
+## :hammer_and_wrench: Joshua Dacosta
 
-<!--
-**Josh-Dacosta/Josh-Dacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code>Aspiring Data Scientist</code>
+<hr>
 
-Here are some ideas to get you started:
+## :package: Tools
+  
+<img align="left" alt="Python" width="17px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="MATLAB" width="17px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img align="left" alt="Java" width="17px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="MongoDB" width="17px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="neo4j" width="17px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
+<img align="left" alt="MySQL" width="17px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+<img align="left" alt="JS" width="17px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+## :open_file_folder: My Projects!
+
+
+
+
